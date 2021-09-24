@@ -1,0 +1,9 @@
+.carousel {
+  position: relative;
+  height: 8.2em;
+
+  &__container {
+    position: absolute;
+    display: flex;
+  }
+}

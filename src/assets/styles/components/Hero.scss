@@ -1,0 +1,16 @@
+.hero {
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  height: 607.675px;
+  overflow: hidden;
+
+  & img {
+    display: block;
+    position: absolute;
+    width: 100%;
+    object-fit: cover;
+  }
+}
